@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Rodri's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriporon&hide=contribs,prs&show_icons=true&theme=react)
+![Rodri's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodriporon&hide=contribs,prs&show_icons=true&theme=blueberry)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodriporon&hide=css&layout=compact&langs_count=7&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rodriporon/rodriporon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
